@@ -1,2 +1,2 @@
 # HilMeMe
-Human-in-the-loop MT evaluation with Multi-word Expressions
+Human-in-the-loop MT Evaluation Looking into Multi-word Expressions
